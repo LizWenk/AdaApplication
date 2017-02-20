@@ -25,10 +25,10 @@ liz.wenk@gmail.com
 
 ### Computer and Programming Experiences
 - 2016: Research Associate- Fermilab, *Batavia, IL*
-    - Developed macros in ROOT (C++ based language written by CERN for high energy particle physics) to investigate the performance of the Prong-based Convolutional Neural Network for the NOvA experiment
+    - Developed macros in ROOT (C++ based language written by CERN for high energy particle physics) to investigate the performance of the Prong-based Convolutional Neural Network for the [NOvA Neutrino](https://www-nova.fnal.gov/) experiment
     - Created plots of data from event displays that indicated the behavior of the CVN prong reconstruction compared to the simulation
 - 2015: Research Associate- Fermilab, *Batavia, IL*
-    - Used Matlab to help develop a package called "SolCalc" that investigates the effects of geometric misalignments of the Transport Solenoid on the magnetic field and the induced effects on muon and background rates for the Mu2e experiment
+    - Used Matlab to help develop a package called "SolCalc" that investigates the effects of geometric misalignments of the Transport Solenoid on the magnetic field and the induced effects on muon and background rates for the [Mu2e](https://mu2e.fnal.gov/) experiment
     - Presented research results at Simulation and Programming Committees
     - Published results in *IEEE Transactions on Applied Superconductivity* 
 - 2013-2014: Curriculum Writer and Fellow- digedu Enterprises, *Worked Remotely*
