@@ -28,7 +28,7 @@ liz.wenk@gmail.com
     - Developed macros in ROOT (C++ based language written by CERN for high energy particle physics) to investigate the performance of the Prong-based Convolutional Neural Network for the NOvA experiment
     - Created plots of data from event displays that indicated the behavior of the CVN prong reconstruction compared to the simulation
 - 2015: Research Associate- Fermilab, *Batavia, IL*
-    - Used Matlab to help develop a package called "Solcalc" that investigates the effects of geometric misalignments of the Transport Solenoid on the magnetic field and the induced effects on muon and background rates for the Mu2e experiment
+    - Used Matlab to help develop a package called "SolCalc" that investigates the effects of geometric misalignments of the Transport Solenoid on the magnetic field and the induced effects on muon and background rates for the Mu2e experiment
     - Presented research results at Simulation and Programming Committees
     - Published results in *IEEE Transactions on Applied Superconductivity* 
 - 2013-2014: Curriculum Writer and Fellow- digedu Enterprises, *Worked Remotely*
@@ -51,7 +51,7 @@ liz.wenk@gmail.com
 - 2012-present: Southeastern Consortium for Minorities in Engineering (SECME) Coordinator- West Boca Raton Community High School, *Boca Raton, FL*
     - Organize and facilitate a team of students in the SECME district and national competition through the Science Olympiad
     - The competition consists of several building challenges (e.g., truss bridge, mousetrap car, water rockets) and each build must include a technical drawing and report
-    - Teach students about the importance of STEM education and bring in guest lecturers in related industries and careers (e.g., Mechanical / Aerospace Engineers)
+    - Teach students about the importance of STEM education and bring in guest lecturers in related industries and careers
     - Students participate in the South Florida Science Museum’s “Drop it, Build it, Fly it, Launch it, Thrill it” competition and build rollercoaster, rockets, planes, bridges, and egg-drop containers
 - 2013–present: Chairperson of the Palm Beach Regional Bridge Challenge- *Palm Beach County, FL*
     - Organize, coordinate, and oversee the District Bridge Building Competition through the South Florida Science and Engineering Fair
