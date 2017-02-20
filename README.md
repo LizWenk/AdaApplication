@@ -19,7 +19,7 @@ liz.wenk@gmail.com
 - 2017: M. Lopes, G. Ambrosio, K. Badgley, F. Bradascio, J. Brandt, D. Evbota, A. Hocker, M. Lamm, V. Lombardo, J. Miller, T. Nicol, R. Kutschke, C. Vellidis, R. Wands, and E. Wenk, "Mu2e Transport Solenoid Cold-Mass Alignment Issues," *IEEE Transactions on Applied Superconductivity* **PP 99**, 2017). doi:10.1109/tasc.2016.2642641 
 - 2016: Fermilab Teacher Research Associate Fellowship [NOvA Convolutional Neural Network Research] (http://eddata.fnal.gov/lasso/summerstudents/view.lasso?year=2016&id=1869&program=TRAC)
 - 2015: Fermilab Teacher Research Associate Fellowship [Mu2e Transport Solenoid Research] (http://eddata.fnal.gov/lasso/summerstudents/view.lasso?year=2015&id=1693&program=TRAC)
-- 2013: NSTA (National Science Teachers Association): Maitland P. Simmons Memorial [Award] (https://www.nsta.org/about/pressroom.aspx?id=59911) for New Teachers
+- 2013: NSTA (National Science Teachers Association): [Maitland P. Simmons Memorial Award] (https://www.nsta.org/about/pressroom.aspx?id=59911) for New Teachers
 - 2013: PBCSEA (Palm Beach County Science Teachers Association): Teacher of the Year – Award of Promise
 
 
